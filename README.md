@@ -1,17 +1,5 @@
-# Mine-Sweeper
+# DE2-115 CAVE GAME
 
-## ゲーム起動
-```
-python3 mine_sweeper.py
-```
+## IMAGE
 
-## 難易度を指定
-```
-python3 mine_sweeper.py --easy
-```
-```
-python3 mine_sweeper.py --normal
-```
-```
-python3 mine_sweeper.py --sticky
-```
+![E680EBCD-335F-42D0-8B53-1ACAB93A10A7](https://user-images.githubusercontent.com/56730772/71609079-fc9fb500-2bc8-11ea-8712-b95336774dcc.jpg)
