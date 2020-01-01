@@ -1,4 +1,5 @@
 # DE2-115 CAVE GAME
+環境：DE2-115,VGA
 
 ## IMAGE
 
